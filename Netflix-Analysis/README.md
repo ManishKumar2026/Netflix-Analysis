@@ -143,7 +143,7 @@ netflix-eda/
 
 ## 👤 Author
 
-**Your Name**  
+Manish Kumar
 📧 mkumar.code24@gmail.com
 🔗 [LinkedIn](https://linkedin.com/in/Manishkumar) | [GitHub](https://github.com/ManishKumar2026)
 
