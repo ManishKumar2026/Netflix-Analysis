@@ -145,7 +145,7 @@ netflix-eda/
 
 Manish Kumar
 📧 mkumar.code24@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/Manishkumar) | [GitHub](https://github.com/ManishKumar2026)
+🔗 [LinkedIn](https://www.linkedin.com/in/manish-kumar-417a57267?utm_source=share_via&utm_content=profile&utm_medium=member_android) | [GitHub](https://github.com/ManishKumar2026)
 
 ---
 
